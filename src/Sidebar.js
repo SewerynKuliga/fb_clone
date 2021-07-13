@@ -12,7 +12,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 function Sidebar() {
     return (
         <div className="sidebar">
-            <SidebarRow src="https://upload.wikimedia.org/wikipedia/commons/5/57/HanuszkaChopin.png?1626093704312" title="Seweryn Kuliga" />
+            <SidebarRow src="https://avatars.githubusercontent.com/u/81814080?s=400&u=a92551701bc5e89122dbe2265aced16a710813da&v=4" title="Seweryn Kuliga" />
             <SidebarRow Icon={LocalHospitalIcon} title="Covid-19 Information Center" />
             <SidebarRow Icon={EmojiFlagsIcon} title="Pages" />
             <SidebarRow Icon={PeopleIcon} title="Friends" />
