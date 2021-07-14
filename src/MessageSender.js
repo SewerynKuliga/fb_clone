@@ -14,7 +14,7 @@ function MessageSender() {
     return (
         <div className="messageSender">
             <div className="messageSender__top">
-                <Avatar />
+                <Avatar src="https://avatars.githubusercontent.com/u/81814080?s=400&u=a92551701bc5e89122dbe2265aced16a710813da&v=4" />
                 <form>
                     <input
                         className="messageSender__input"
@@ -32,20 +32,20 @@ function MessageSender() {
             <div className="messageSender__bottom">
 
                 <div className="messegeSender__option">
-                    <VideocamIcon style={{color: "red"}}/>
+                    <VideocamIcon style={{ color: "red" }} />
                     <h3>Live Video</h3>
                 </div>
 
                 <div className="messegeSender__option">
-                    <PhotoLibraryIcon style={{color: "green"}} />
+                    <PhotoLibraryIcon style={{ color: "green" }} />
                     <h3>Photo/Video</h3>
                 </div>
 
                 <div className="messegeSender__option">
-                    <MoodIcon style={{color: "orange"}} />
+                    <MoodIcon style={{ color: "orange" }} />
                     <h3>Feeling/Acivity</h3>
                 </div>
-                
+
             </div>
         </div>
     )
