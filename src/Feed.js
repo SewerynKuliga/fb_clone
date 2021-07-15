@@ -10,11 +10,17 @@ function Feed() {
             <StoryReel />
             <MessageSender />
 
-            <Post />
+            <Post 
+                profilePic="https://avatars.githubusercontent.com/u/81814080?s=400&u=a92551701bc5e89122dbe2265aced16a710813da&v=4"
+                message="Wow, this works!"
+                timestamp="This is a timestamp"
+                username="Seweryn Kuliga"
+                image="https://armaanparikh.com/wp-content/uploads/2021/04/code.png"
+            />
             <Post />
             <Post />
         </div>
     )
 }
 
-export default Feed
+export default Feed;
