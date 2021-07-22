@@ -7,7 +7,7 @@ import Widgets from './Widgets';
 import Login from './Login';
 
 function App() {
-  const user = "Seweryn";  // to see Login page you have to change "Seweryn" to null
+  const user = "seweryn";  // to see Login page you have to change "Seweryn" to null
 
   return (
     <div className="app">
