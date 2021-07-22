@@ -5,14 +5,15 @@ import Sidebar from './Sidebar';
 import Feed from './Feed';
 import Widgets from './Widgets';
 import Login from './Login';
+import { useStateValue } from './StateProvider';
 
 function App() {
-  const user = "seweryn";  // to see Login page you have to change "Seweryn" to null
+  const [{ user }, dispatch] = useStateValue();
 
   return (
     <div className="app">
       {!user ? (
-      <Login />
+        <Login />
       ) : (
         <>
           <Header />
