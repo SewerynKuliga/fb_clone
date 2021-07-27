@@ -1,4 +1,4 @@
- # Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -21,6 +21,4 @@ You will also see any lint errors in the console.
 
 This is what a clone actually looks like:
 
-![image](https://user-images.githubusercontent.com/81814080/126493559-28566115-d325-485d-a586-ae7178e6c756.png)
-
-Application in progress...
+https://user-images.githubusercontent.com/81814080/127151705-ff5dc3b2-13e4-4d08-bd82-ff523fbea015.mp4
