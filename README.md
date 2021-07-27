@@ -17,7 +17,11 @@ You will also see any lint errors in the console.
 ##
 Authorization by Google is possible in the application.
 Website based on components.
+
 The status of posts is saved in Firebase along with the time at which the post was written.
+The post can contain text as well as an image or gif
+
+The widget was downloaded from facebook, which updates with changes on it.
 
 
 This is what a clone actually looks like:
