@@ -15,8 +15,9 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ##
-
-
+Authorization by Google is possible in the application.
+Website based on components.
+The status of posts is saved in Firebase along with the time at which the post was written.
 
 
 This is what a clone actually looks like:
